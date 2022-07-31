@@ -10,7 +10,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <main className='text-white'>
         <h1 className="text-3xl font-bold">
           twitter home
         </h1>
