@@ -1,5 +1,7 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
+import Center from '../components/center'
+
 
 const Home: NextPage = () => {
   return (
@@ -11,9 +13,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className='text-white'>
-        <h1 className="text-3xl font-bold">
-          twitter home
-        </h1>
+        <Center></Center>
       </main>
     </div>
   )
