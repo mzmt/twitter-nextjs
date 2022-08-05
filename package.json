@@ -9,7 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@picmo/popup-picker": "^5.4.0",
+    "@picmo/renderer-twemoji": "^5.4.0",
     "next": "12.2.3",
+    "picmo": "^5.4.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
