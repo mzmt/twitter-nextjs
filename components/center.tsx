@@ -2,7 +2,7 @@ import type { NextPage } from 'next'
 import { useState } from "react"
 
 const Center: NextPage = () => {
-  const [tweet, setTweet] = useState('');
+  const [tweet, setTweet] = useState('')
 
   return (
     <div>
